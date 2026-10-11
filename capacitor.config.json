@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.sedayekargar",
+  "appName": "صدای کارگر",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
